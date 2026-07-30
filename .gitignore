@@ -13,3 +13,6 @@ backend/exports/
 backend/data/
 
 frontend/.next/
+
+backend/logs/
+backend/training_data/
