@@ -1,0 +1,15 @@
+backend/.env
+backend/__pycache__/
+*.pyc
+backend/data/backups/
+backend/data/chroma_db/
+backend/data/embeddings_cache/
+
+frontend/node_modules/
+
+backend/exports/
+*.pdf
+
+backend/data/
+
+frontend/.next/

@@ -1,0 +1,3 @@
+from .general_affidavit import generate_general_affidavit
+from .affidavit_of_service import generate_service_affidavit
+from .supporting_affidavit import generate_supporting_affidavit

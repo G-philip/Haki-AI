@@ -1,0 +1,14 @@
+REPUBLIC_HEADER = "REPUBLIC OF KENYA"
+COMMISSIONER_BLOCK = """
+BEFORE ME:
+
+………………………………………
+COMMISSIONER FOR OATHS/
+NOTARY PUBLIC/MAGISTRATE
+"""
+DRAWN_BY = """
+DRAWN BY:
+[Advocate's Name/Firm]
+[Physical Address]
+[Email Address]
+"""
